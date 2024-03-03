@@ -13,14 +13,10 @@ Thank you for considering contributing to our project! Contributions are welcome
 
 1. Fork the repository.
 2. Create a branch (`git checkout -b your-feature-branch`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push your changes to your forked repository (`git push origin your-feature-branch`).
-5. Open a pull request to the `main` branch of this repository.
-
-## Coding Standards
-
-- Follow the coding standards established in the project.
-- Make sure your changes do not break any existing functionality.
+3. Make your changes and commit (`git commit -am 'Add new feature'`). Remember to add the changes in both English and Spanish, or any other language you want to add.
+4. Verify that your changes are reflected in both the English and Spanish sections.
+5. Push your changes to your forked repository (`git push origin your-feature-branch`).
+6. Open a pull request to the `main` branch of this repository.
 
 ## Reporting Issues
 
@@ -40,14 +36,10 @@ We appreciate your time and effort in contributing to the project.
 
 1. Realiza un fork del repositorio.
 2. Crea una rama (`git checkout -b tu-rama-de-funcionalidad`).
-3. Realiza tus cambios y haz commits (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios a tu repositorio fork (`git push origin tu-rama-de-funcionalidad`).
-5. Abre una solicitud de extracción (pull request) a la rama `main` de este repositorio.
-
-## Estándares de Codificación
-
-- Sigue los estándares de codificación establecidos en el proyecto.
-- Asegúrate de que tus cambios no rompan ninguna funcionalidad existente.
+3. Realiza tus cambios y haz commits (`git commit -am 'Añadir nueva funcionalidad'`). Recuerda agregar los cambios tanto en inglés como en español, o cualquier otro idioma que quieras agregar.
+4. Verifica que tus cambios se reflejen tanto en las secciones en inglés como en español.
+5. Sube tus cambios a tu repositorio fork (`git push origin tu-rama-de-funcionalidad`).
+6. Abre una solicitud de extracción (pull request) a la rama `main` de este repositorio.
 
 ## Informar Problemas
 
