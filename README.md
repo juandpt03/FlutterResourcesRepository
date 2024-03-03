@@ -11,30 +11,31 @@ You can select your preferred language using the appropriate link:
 - [Español](#español)
 - [English](#english)
 
+## Table of Contents
+
+- [Mobile](mobile/)
+  - [Tools](mobile/tools/tools.md)
+  - [Design](mobile/design/)
+    - [Icons](mobile/design/icons/icons.md)
+    - [Images](mobile/design/images/images.md)
+    - [Material Design](mobile/design/material-design/material-design.md)
+    - [Design Tools](mobile/design/tools/design-tools.md)
+  - [Learning](mobile/learning/)
+    - [Blogs](mobile/learning/blogs/blogs.md)
+    - [Books](mobile/learning/books/books.md)
+    - [Courses](mobile/learning/courses/courses.md)
+    - [Podcasts](mobile/learning/podcasts/podcasts.md)
+    - [Tutorials](mobile/learning/tutorials/tutorials.md)
+  - [Packages](mobile/packages/packages.md)
+  - [Communities](mobile/communities/communities.md)
+  - [Events](mobile/events/events.md)
+- [Web](web/)
+- [Desktop](desktop/)
+- [Games](games/)
+
 ## Contribute
 
 You are welcome to contribute to this repository! Check the [contribution guidelines](CONTRIBUTING.md) for more information on how you can participate.
-
-## English
-
-## Table of Contents
-
-- [Websites](/websites)
-- [Tools](/tools)
-- [Design](/design)
-  - [Icons](/design/icons/icons.md)
-  - [Images](/design/images/images.md)
-  - [Material Design](/design/material-design/material-design.md)
-  - [Design Tools](/design/tools/design-tools.md)
-- [Learning](/learning)
-  - [Blogs](/learning/blogs/blogs.md)
-  - [Books](/learning/books/books.md)
-  - [Courses](/learning/courses/courses.md)
-  - [Podcasts](/learning/podcasts/podcasts.md)
-  - [Tutorials](/learning/tutorials/tutorials.md)
-- [Packages](/packages/packages.md)
-- [Communities](/communities/communities.md)
-- [Events](/events/events.md)
 
 ## Español
 
@@ -42,27 +43,28 @@ You are welcome to contribute to this repository! Check the [contribution guidel
 
 Este repositorio tiene como objetivo proporcionar una colección centralizada de recursos útiles para desarrolladores que trabajan con Flutter. La idea es crear un espacio donde la comunidad pueda compartir y descubrir recursos relacionados con diseño o herramientas como por ejemplo, iconos y imágenes SVG, facilitando así el proceso de desarrollo en Flutter.
 
+## Tabla de Contenidos
+
+- [Móvil](mobile/)
+  - [Herramientas](mobile/tools/tools.md)
+  - [Diseño](mobile/design/)
+    - [Iconos](mobile/design/icons/icons.md)
+    - [Imágenes](mobile/design/images/images.md)
+    - [Material Design](mobile/design/material-design/material-design.md)
+    - [Herramientas de Diseño](mobile/design/tools/design-tools.md)
+  - [Aprendizaje](mobile/learning/)
+    - [Blogs](mobile/learning/blogs/blogs.md)
+    - [Libros](mobile/learning/books/books.md)
+    - [Cursos](mobile/learning/courses/courses.md)
+    - [Podcasts](mobile/learning/podcasts/podcasts.md)
+    - [Tutoriales](mobile/learning/tutorials/tutorials.md)
+  - [Paquetes](mobile/packages/packages.md)
+  - [Comunidades](mobile/communities/communities.md)
+  - [Eventos](mobile/events/events.md)
+- [Web](web/)
+- [Escritorio](desktop/)
+- [Juegos](games/)
+
 ## Contribuir
 
 ¡Te invitamos a contribuir a este repositorio! Consulta las [pautas de contribución](CONTRIBUTING.md) para obtener más información sobre cómo puedes participar.
-
-## Español
-
-## Tabla de Contenidos
-
-- [Sitios Web](/websites)
-- [Herramientas](/tools)
-- [Diseño](/design)
-  - [Iconos](/design/icons/icons.md)
-  - [Imágenes](/design/images/images.md)
-  - [Material Design](/design/material-design/material-design.md)
-  - [Herramientas de Diseño](/design/tools/design-tools.md)
-- [Aprendizaje](/learning)
-  - [Blogs](/learning/blogs/blogs.md)
-  - [Libros](/learning/books/books.md)
-  - [Cursos](/learning/courses/courses.md)
-  - [Podcasts](/learning/podcasts/podcasts.md)
-  - [Tutoriales](/learning/tutorials/tutorials.md)
-- [Paquetes](/packages/packages.md)
-- [Comunidades](/communities/communities.md)
-- [Eventos](/events/events.md)
