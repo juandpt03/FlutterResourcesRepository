@@ -1,3 +1,7 @@
+# Welcome to our Flutter resources repository!
+
+![Welcome](https://www.mashfrog.com/sites/default/files/2023-02/1920x1080_cover_B%20%281%29.png)
+
 ## English
 
 ## Flutter Resources Repository
