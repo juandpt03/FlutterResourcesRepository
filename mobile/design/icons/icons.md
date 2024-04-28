@@ -21,47 +21,13 @@ Flaticon offers a large collection of free icons available for download in vario
 
 Icons8 offers a wide variety of free and premium icons in various styles and formats.
 
-#### [Iconfinder](https://www.iconfinder.com)
+#### [Unicorn Icons](https://unicornicons.com/icons)
 
-Iconfinder provides free and premium icons, and allows you to filter by category, style, and price.
+Unicorn Icons ofrece una colección de íconos únicos y personalizables para tus proyectos de Flutter. Explora su biblioteca para encontrar los íconos perfectos para tus necesidades.
 
-#### [FontAwesome](https://fontawesome.com)
+#### [Lottie](https://lottiefiles.com)
 
-FontAwesome is an icon library that you can use in your projects. It offers a free version with thousands of icons and a pro version with even more options.
-
-#### [Material Icons](https://material.io/resources/icons/?style=baseline)
-
-Material Icons is a Google's icon library that follows the Material Design guidelines.
-
-#### [Noun Project](https://thenounproject.com)
-
-Noun Project offers a large number of icons from different artists. Some icons are free with attribution, while others require a subscription.
-
-### Edit and Generate Icons
-
-#### [Icon Kitchen](https://icon.kitchen/)
-
-Icon Kitchen allows you to edit and generate your own icons. It provides a simple interface to customize the color, size, and format of your icons.
-
-## How to Contribute
-
-If you find valuable resources or updates about icons that are not listed here, feel free to contribute! Follow the [contribution guidelines](/CONTRIBUTING.md) for more information.
-
-## Español
-
-## Recursos de Íconos
-
-Esta sección incluye recursos para obtener íconos gratuitos y premium para tus proyectos de Flutter, así como herramientas para editar y generar íconos.
-
-### Gratis
-
-#### [Flaticon](https://www.flaticon.com)
-
-Flaticon ofrece una gran colección de iconos gratuitos disponibles para descargar en varios formatos. Recuerda verificar los términos de la licencia antes de usar estos iconos en tus proyectos.
-
-#### [Icons8](https://icons8.com)
-
-Icons8 ofrece una amplia variedad de iconos gratuitos y premium en varios estilos y formatos.
+Lottie es una biblioteca que te permite agregar animaciones en formato JSON a tus proyectos de Flutter. Puedes encontrar una amplia colección de animaciones gratuitas y premium en LottieFiles.
 
 #### [Iconfinder](https://www.iconfinder.com)
 
