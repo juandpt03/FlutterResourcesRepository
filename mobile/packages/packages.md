@@ -220,6 +220,10 @@ The `animated_text_kit` package offers predefined text animations for your Flutt
 
 The `flame` package provides a game engine for efficiently creating 2D games in Flutter.
 
+### [adaptive_theme ](https://pub.dev/packages/adaptive_theme)
+
+The `adaptive_theme` package provides a simple way to manage light and dark themes with an intuitive and easy to use api.
+
 ## Español
 
 ## Recursos de paquetes
@@ -448,3 +452,7 @@ El paquete `animated_text_kit` ofrece animaciones predefinidas para texto en tus
 ### [flame](https://pub.dev/packages/flame)
 
 El paquete `flame` proporciona un motor de juego para crear juegos 2D de manera eficiente en Flutter.
+
+### [adaptive_theme ](https://pub.dev/packages/adaptive_theme)
+
+El paquete `adaptive_theme` proporciona una forma sencilla para manejar los temas claro y oscuro con una api intuitiva y sencilla de utilizar.
